@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: #f4f4f4;
+    background-color: #11cac7;
     margin: 0;
     padding: 0;
 }
@@ -47,10 +47,4 @@ body {
     font-weight: bold;
 }
 
-.contact-phone, .contact-email {
-    color: #777;
-}
-
-.contact-actions button {
-    margin-left: 5px;
-}
+.contac…
